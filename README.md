@@ -1,1 +1,2 @@
 # Cyber-bullying-Media-Art-Piece
+This is a code I am trying to write/compile in order to realize the concept that my group in my master studies, has created. We want to hit a pinata where a ADXL345 Accelerometer is placed, and this signal to display randomized images in Processing that contain hate comments and cyber bullying. It is a concept for an exhibition that we will be part of and will take place next week on wednesday. 
