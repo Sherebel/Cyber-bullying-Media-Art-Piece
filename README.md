@@ -1,5 +1,5 @@
 **ARDUINO**
-'''
+`
 void setup() {
   // initialize serial communication at 9600 baud rate
   Serial.begin(9600);
@@ -17,9 +17,9 @@ void loop() {
   Serial.println(z);
   delay(1000);
 }
-'''
+`
 **& PROCESSING**
-
+`
 import processing.serial.*;
 Serial mySerial;
 PImage fragment;
@@ -54,3 +54,4 @@ void draw() {
     }
   }
 }
+`
